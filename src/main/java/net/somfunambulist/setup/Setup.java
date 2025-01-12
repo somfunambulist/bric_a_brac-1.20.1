@@ -13,6 +13,7 @@ import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import net.somfunambulist.setup.block.ModBlocks;
+import net.somfunambulist.setup.item.ModCreativeModeTabs;
 import net.somfunambulist.setup.item.ModItems;
 import org.slf4j.Logger;
 
@@ -24,6 +25,8 @@ public class Setup {
 
     public Setup() {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
+
+        ModCreativeModeTabs.register(modEventBus);
 
         ModItems.register(modEventBus);
         ModBlocks.register(modEventBus);
