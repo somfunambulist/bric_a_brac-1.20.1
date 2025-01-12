@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "setup:hazel_sapling"
+    }
+  ],
+  "result": {
+    "item": "setup:dowsing_rod"
+  }
+}
