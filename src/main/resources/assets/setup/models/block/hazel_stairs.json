@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "setup:block/hazel_planks",
+    "side": "setup:block/hazel_planks",
+    "top": "setup:block/hazel_planks"
+  }
+}

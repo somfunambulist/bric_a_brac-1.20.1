@@ -21,6 +21,9 @@ public class ModCreativeModeTabs {
                         output.accept(ModItems.HAZEL_SAPLING.get());
                         output.accept(ModItems.DOWSING_ROD.get());
 
+                        output.accept(ModBlocks.HAZEL_PLANKS.get());
+                        output.accept(ModBlocks.HAZEL_SLAB.get());
+                        output.accept(ModBlocks.HAZEL_STAIRS.get());
                         output.accept(ModBlocks.CARVED_HAZEL.get());
                     })).build());
 

@@ -2,6 +2,9 @@
   "item.setup.hazel_sapling": "Hazel Sapling",
   "item.setup.dowsing_rod": "Dowsing Rod",
 
+  "block.setup.hazel_planks": "Hazel Planks",
+  "block.setup.hazel_stairs": "Hazel Stairs",
+  "block.setup.hazel_slab": "Hazel Slab",
   "block.setup.carved_hazel": "Carved Hazel",
 
   "creativetab.setup_tab": "Setup Tab"
