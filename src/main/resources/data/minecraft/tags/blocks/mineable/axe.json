@@ -1,9 +1,6 @@
 {
   "replace": false,
   "values": [
-    "setup:carved_hazel",
-    "setup:hazel_planks",
-    "setup:hazel_slab",
-    "setup:hazel_stairs"
+    "bric_a_brac:walnut_bundle"
   ]
 }

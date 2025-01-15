@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "bric_a_brac:walnut_bundle"
+    }
+  ],
+  "result": {
+    "item": "ecologics:walnut",
+    "count": 9
+  }
+}

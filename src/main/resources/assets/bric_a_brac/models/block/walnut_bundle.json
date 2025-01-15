@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "bric_a_brac:block/walnut_bundle_bottom",
+    "top": "bric_a_brac:block/walnut_bundle_top",
+    "side": "bric_a_brac:block/walnut_bundle_side"
+  }
+}
